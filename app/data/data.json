@@ -1,0 +1,173 @@
+{
+  "carousels": [
+    {
+      "id": "carousel-01",
+      "mobile_image": "/assets/images/trending.webp",
+      "desktop_image": "/assets/images/desktop-trending.webp"
+    },
+    {
+      "id": "carousel-02",
+      "mobile_image": "/assets/images/hero.webp",
+      "desktop_image": "/assets/images/desktop-hero.webp"
+    }
+  ],
+  "categories": [
+    {
+      "id": "category-01",
+      "title": "All",
+      "href": "/shops",
+      "image": "/assets/images/categories/all-category.jpg"
+    },
+    {
+      "id": "category-02",
+      "title": "Men",
+      "href": "/shops/men",
+      "image": "/assets/images/categories/men-category.jpeg"
+    },
+    {
+      "id": "category-03",
+      "title": "Women",
+      "href": "/shops/women",
+      "image": "/assets/images/categories/women-category.webp"
+    }
+  ],
+  "trending": [
+    {
+      "id": "trending-01",
+      "shoes_id": "air-max-pulse-phantom"
+    },
+    {
+      "id": "trending-02",
+      "shoes_id": "air-max-pulse-cobblestone"
+    },
+    {
+      "id": "trending-03",
+      "shoes_id": "air-max-pulse-black"
+    },
+    {
+      "id": "trending-04",
+      "shoes_id": "air-force-one-07-w"
+    },
+    {
+      "id": "trending-05",
+      "shoes_id": "air-force-one-07-m"
+    }
+  ],
+  "sizes": [
+    {
+      "id": "sizes-1",
+      "category_id": "category-02",
+      "sizes": [
+        40, 40.5, 41, 41.5, 42, 42.5, 43, 43.5, 44, 44.5, 45, 45.5, 46, 46.5,
+        47, 47.5
+      ]
+    },
+    {
+      "id": "sizes-2",
+      "category_id": "category-03",
+      "sizes": [
+        35.5, 36, 36.5, 37.5, 38, 38.5, 39, 40, 40.5, 41, 42, 42.5, 43, 44, 44.5
+      ]
+    }
+  ],
+  "shoes": [
+    {
+      "id": "air-max-pulse-phantom",
+      "category_id": "category-02",
+      "title": "Air Max Pulse",
+      "description": "The Air Max Pulse pulls inspiration from the London music scene, bringing an underground touch to the iconic Air Max line. Its textile-wrapped midsole and vacuum-sealed accents keep 'em looking fresh and clean, while colours inspired by the London music scene give your look the edge. Point-loaded Air cushioning—revamped from the incredibly plush Air Max 270—delivers better bounce, helping you push past your limits.",
+      "colors": "phantom",
+      "price": 2379000,
+      "available_size": [
+        40, 40.5, 41, 41.5, 42, 42.5, 43, 43.5, 44, 44.5, 45, 45.5, 46, 46.5,
+        47, 47.5
+      ],
+      "images": [
+        "/assets/images/air-max-plus/phantom/NAMP-Phantom-01.webp",
+        "/assets/images/air-max-plus/phantom/NAMP-Phantom-02.webp",
+        "/assets/images/air-max-plus/phantom/NAMP-Phantom-03.webp",
+        "/assets/images/air-max-plus/phantom/NAMP-Phantom-04.webp",
+        "/assets/images/air-max-plus/phantom/NAMP-Phantom-05.webp",
+        "/assets/images/air-max-plus/phantom/NAMP-Phantom-06.webp",
+        "/assets/images/air-max-plus/phantom/NAMP-Phantom-07.jpeg",
+        "/assets/images/air-max-plus/phantom/NAMP-Phantom-08.webp"
+      ]
+    },
+    {
+      "id": "air-max-pulse-cobblestone",
+      "title": "Air Max Pulse",
+      "description": "The Air Max Pulse pulls inspiration from the London music scene, bringing an underground touch to the iconic Air Max line. Its textile-wrapped midsole and vacuum-sealed accents keep 'em looking fresh and clean, while colours inspired by the London music scene give your look the edge. Point-loaded Air cushioning—revamped from the incredibly plush Air Max 270—delivers better bounce, helping you push past your limits.",
+      "category_id": "category-02",
+      "colors": "cobblestone",
+      "price": 2379000,
+      "available_size": [40, 41, 42, 43, 44, 45, 46, 47],
+      "images": [
+        "/assets/images/air-max-plus/cobblestone/NAMP-Cobblestone-01.webp",
+        "/assets/images/air-max-plus/cobblestone/NAMP-Cobblestone-02.webp",
+        "/assets/images/air-max-plus/cobblestone/NAMP-Cobblestone-03.webp",
+        "/assets/images/air-max-plus/cobblestone/NAMP-Cobblestone-04.webp",
+        "/assets/images/air-max-plus/cobblestone/NAMP-Cobblestone-05.webp",
+        "/assets/images/air-max-plus/cobblestone/NAMP-Cobblestone-06.webp",
+        "/assets/images/air-max-plus/cobblestone/NAMP-Cobblestone-07.jpeg",
+        "/assets/images/air-max-plus/cobblestone/NAMP-Cobblestone-08.webp"
+      ]
+    },
+    {
+      "id": "air-max-pulse-black",
+      "title": "Air Max Pulse",
+      "description": "The Air Max Pulse pulls inspiration from the London music scene, bringing an underground touch to the iconic Air Max line. Its textile-wrapped midsole and vacuum-sealed accents keep 'em looking fresh and clean, while colours inspired by the London music scene give your look the edge. Point-loaded Air cushioning—revamped from the incredibly plush Air Max 270—delivers better bounce, helping you push past your limits.",
+      "category_id": "category-02",
+      "colors": "black",
+      "price": 2379000,
+      "available_size": [40, 41, 42, 43, 44, 45, 46, 47],
+      "images": [
+        "/assets/images/air-max-plus/black/NAMP-Black-01.webp",
+        "/assets/images/air-max-plus/black/NAMP-Black-02.webp",
+        "/assets/images/air-max-plus/black/NAMP-Black-03.webp",
+        "/assets/images/air-max-plus/black/NAMP-Black-04.webp",
+        "/assets/images/air-max-plus/black/NAMP-Black-05.webp",
+        "/assets/images/air-max-plus/black/NAMP-Black-06.webp",
+        "/assets/images/air-max-plus/black/NAMP-Black-07.jpeg",
+        "/assets/images/air-max-plus/black/NAMP-Black-08.webp"
+      ]
+    },
+    {
+      "id": "air-force-one-07-w",
+      "title": "Air Force 1 '07 Next Nature",
+      "description": "No foul, all play. Made from at least 20% recycled materials by weight, the original that wrote sneaker history gets updated with synthetic leather.",
+      "category_id": "category-03",
+      "colors": "white metallic",
+      "price": 1549000,
+      "available_size": [35.5, 36, 36.5, 37.5, 38, 38.5, 39, 40, 40.5, 41, 42],
+      "images": [
+        "/assets/images/air-force-one-07-w/white-metallic/AFO07-W-01.webp",
+        "/assets/images/air-force-one-07-w/white-metallic/AFO07-W-02.webp",
+        "/assets/images/air-force-one-07-w/white-metallic/AFO07-W-03.webp",
+        "/assets/images/air-force-one-07-w/white-metallic/AFO07-W-04.webp",
+        "/assets/images/air-force-one-07-w/white-metallic/AFO07-W-05.webp",
+        "/assets/images/air-force-one-07-w/white-metallic/AFO07-W-06.webp",
+        "/assets/images/air-force-one-07-w/white-metallic/AFO07-W-07.webp",
+        "/assets/images/air-force-one-07-w/white-metallic/AFO07-W-08.webp"
+      ]
+    },
+    {
+      "id": "air-force-one-07-m",
+      "title": "Air Force 1 '07",
+      "description": "No foul, all play. Made from at least 20% recycled materials by weight, the original that wrote sneaker history gets updated with synthetic leather.",
+      "category_id": "category-02",
+      "colors": "white",
+      "price": 1549000,
+      "size": [42.5, 43, 43.5, 44, 44.5, 45, 45.5, 46, 46.5, 47, 47.5],
+      "images": [
+        "/assets/images/air-force-one-07/white/AFO-01.webp",
+        "/assets/images/air-force-one-07/white/AFO-02.webp",
+        "/assets/images/air-force-one-07/white/AFO-03.webp",
+        "/assets/images/air-force-one-07/white/AFO-04.webp",
+        "/assets/images/air-force-one-07/white/AFO-05.webp",
+        "/assets/images/air-force-one-07/white/AFO-06.webp",
+        "/assets/images/air-force-one-07/white/AFO-07.webp",
+        "/assets/images/air-force-one-07/white/AFO-08.webp"
+      ]
+    }
+  ]
+}
